@@ -1,5 +1,7 @@
-*{
-    margin: 0;
+*{ /** { ... }: The * is the universal selector, 
+    meaning it targets every single element on the page, 
+    regardless of type (like <div>, <p>, <h1>, etc.).*/
+    margin: 0; 
     padding: 0;
     font-family: 'Poppins', sans-serif;
     box-sizing: border-box;
